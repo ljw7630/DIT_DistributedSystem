@@ -1,0 +1,2 @@
+1 mouse 20.0
+2 keyboard 30
